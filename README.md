@@ -1,6 +1,8 @@
-# Covid-19 visualization
+# IATI Climate visualization
 
-A simple visualization using published IATI data on Covid-19.
+> This repository has been archived on Aug 24, 2023
+
+A simple visualization using published IATI Climate data.
 
 Data is generated nightly by the [OCHA-DAP/hdx-scraper-iati-viz](https://github.com/ocha-dap/hdx-scraper-iati-viz) repository.
 
